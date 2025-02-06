@@ -30,7 +30,7 @@ The option premium is a function of both intrinsic and extrinsic values, with ga
 
 ### 3.2. Nonlinear Relationships
 
-Empirical analyses across datasets (2024–2025) reveal a clear nonlinear premium–gamma relationship. Particularly, premium sensitivity is not uniform across volatility regimes. In low volatility periods, gamma plays a more subdued role; however, in high-volatility regimes, even minor shifts in the underlying can lead to exponential sensitivity in gamma. This has been substantiated by regression studies with statistically significant p-values (e.g., p < 0.05) and highlights that traditional linear models may not adequately capture these dynamics. Researchers thus advocate for nonlinear calibration techniques and regime-switching models.
+Empirical analyses across datasets (2024–2025) reveal a clear nonlinear premium–gamma relationship. Particularly, premium sensitivity is not uniform across volatility regimes. ```In low volatility periods, gamma plays a more subdued role; however, in high-volatility regimes, even minor shifts in the underlying can lead to exponential sensitivity in gamma. This has been substantiated by regression studies with statistically significant p-values (e.g., p < 0.05) and highlights that traditional linear models may not adequately capture these dynamics. Researchers thus advocate for nonlinear calibration techniques and regime-switching models.```:mag:
 
 ## 4. Advanced Methodologies: Integrating Nonlinearities and Market Microstructure
 
