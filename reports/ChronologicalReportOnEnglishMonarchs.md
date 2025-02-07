@@ -204,3 +204,4 @@ In conclusion, the period from 1350 to 1650 encapsulates a vibrant, often turbul
 
 ## Sources
 
+[Sources available upon request]
