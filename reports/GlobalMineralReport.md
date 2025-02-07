@@ -165,5 +165,6 @@ Key recommendations for stakeholders include diversifying mineral portfolios, mo
 
 *This report compiles a deep-dive into economic indicators and operational metrics, providing a robust framework for understanding both current market dynamics and potential future trends in mineral extraction. Subsequent analyses should integrate ongoing industry developments and disruptive innovations to remain aligned with global economic shifts.*
 
-## Sources
+## Sources  
 
+[Sources available upon request]
