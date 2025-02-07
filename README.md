@@ -4,4 +4,6 @@ The results collected here are obtained from running the [following](https://git
 
 Check back for added topics! 👓🔬📓🧠🤓🤖🧪
 
+*Reports without sources were due to the Firecrawl API hitting the daily request limits. Upgrade to a free account if you plan on running multiple reports per day. In the future. having the research assistant revisit the reports to add sources will be critical to address the API limit issue.*
+
 ![coverimage](deepresearch.png)
